@@ -1,0 +1,32 @@
+85086917206	bestimmter Artikel	Maskulin	Nominativ		der	
+85086917207	bestimmter Artikel	Maskulin	Akkusativ		den	
+85086917208	bestimmter Artikel	Maskulin	Genitiv		des (...-s)	
+85086917209	bestimmter Artikel	Maskulin	Dativ		dem	
+85086917210	bestimmter Artikel	Feminin	Nominativ		die	
+85086917211	bestimmter Artikel	Feminin	Akkusativ		die	
+85086917212	bestimmter Artikel	Feminin	Genitiv		der	
+85086917213	bestimmter Artikel	Feminin	Dativ		der	
+85086917214	bestimmter Artikel	Neutrum	Nominativ		das	
+85086917215	bestimmter Artikel	Neutrum	Akkusativ		das	
+85086917216	bestimmter Artikel	Neutrum	Genitiv		des (...-s)	
+85086917217	bestimmter Artikel	Neutrum	Dativ		dem	
+85086917218	bestimmter Artikel	Plural	Nominativ		die	
+85086917219	bestimmter Artikel	Plural	Akkusativ		die	
+85086917220	bestimmter Artikel	Plural	Genitiv		der	
+85086917221	bestimmter Artikel	Plural	Dativ		den (...-n)	
+85086917222	unbestimmte / negative / possessive Artikeln	Maskulin	Nominativ	ein- / kein- / mein-	-	
+85086917223	unbestimmte / negative / possessive Artikeln	Maskulin	Akkusativ	ein- / kein- / mein-	-en	
+85086917224	unbestimmte / negative / possessive Artikeln	Maskulin	Genitiv	ein- / kein- / mein-	-es (...-s)	
+85086917225	unbestimmte / negative / possessive Artikeln	Maskulin	Dativ	ein- / kein- / mein-	-em	
+85086917226	unbestimmte / negative / possessive Artikeln	Feminin	Nominativ	ein- / kein- / mein-	-e	
+85086917227	unbestimmte / negative / possessive Artikeln	Feminin	Akkusativ	ein- / kein- / mein-	-e	
+85086917228	unbestimmte / negative / possessive Artikeln	Feminin	Genitiv	ein- / kein- / mein-	-er	
+85086917229	unbestimmte / negative / possessive Artikeln	Feminin	Dativ	ein- / kein- / mein-	-er	
+85086917230	unbestimmte / negative / possessive Artikeln	Neutrum	Nominativ	ein- / kein- / mein-	-	
+85086917231	unbestimmte / negative / possessive Artikeln	Neutrum	Akkusativ	ein- / kein- / mein-	-	
+85086917232	unbestimmte / negative / possessive Artikeln	Neutrum	Genitiv	ein- / kein- / mein-	-es (...-s)	
+85086917233	unbestimmte / negative / possessive Artikeln	Neutrum	Dativ	ein- / kein- / mein-	-em	
+85086917234	unbestimmte / negative / possessive Artikeln	Plural	Nominativ	ein- / kein- / mein-	-e	
+85086917235	unbestimmte / negative / possessive Artikeln	Plural	Akkusativ	ein- / kein- / mein-	-e	
+85086917236	unbestimmte / negative / possessive Artikeln	Plural	Genitiv	ein- / kein- / mein-	-er	
+85086917237	unbestimmte / negative / possessive Artikeln	Plural	Dativ	ein- / kein- / mein-	-en (...-n)	
