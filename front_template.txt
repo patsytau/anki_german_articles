@@ -1,0 +1,6 @@
+{{Artikel}}<br>
+{{Geschlecht}} - {{Kasus}}
+{{#Beispiel}}
+<br><br>
+<i>{{Beispiel}}</i>
+{{/Beispiel}}
